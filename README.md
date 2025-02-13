@@ -25,8 +25,8 @@
 <h3 align="left">👨‍💻 Sobre mim</h3>
 
 <p align="left">
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º semestre. Tenho interesse em desenvolvimento web e análise de dados, buscando aprimorar minhas habilidades e contribuir para projetos desafiadores. <br><br>
-- 🎯 Foco em Back-end e Banco de Dados<br>
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º semestre. Tenho interesse em análise de dados, buscando aprimorar minhas habilidades e contribuir para projetos desafiadores. <br><br>
+- 🎯 Foco em Análise de Dados<br>
 - 🚀 Estudando Phyton e SQL<br>
 - 📊 Interesse em Data Analytics e Power BI<br>
 - 🎓 Sempre aprendendo novas tecnologias
@@ -37,12 +37,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º semes
 <h3 align="left">🛠 Tecnologias e ferramentas</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo"  />
@@ -50,6 +45,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º semes
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
+  <img width="12" />
 </div>
 
 ###
